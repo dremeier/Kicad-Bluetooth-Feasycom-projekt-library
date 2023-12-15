@@ -5,6 +5,11 @@ The Feasycom module is a fantastic choice! It is easy to control via UART, I2C a
 hope it is usefull for someone
 enjoiy!
 
+
+[Example Bluetooth schematic](https://github.com/dremeier/Kicad-Bluetooth-Feasycom-projekt-library/blob/main/Bluetooth_FSC-BT1026x_project/Documents/Bluetooth_PCM5102_Circuit.pdf)
+<object data="https://github.com/dremeier/Kicad-Bluetooth-Feasycom-projekt-library/blob/main/Bluetooth_FSC-BT1026x_project/Documents/Bluetooth_PCM5102_Circuit.pdf" type="application/pdf" width="100%">
+</object>
+
 ## KiCad 3D-Package
 ![Alt text](https://github.com/dremeier/Kicad-Bluetooth-Feasycom-projekt-library/blob/main/KiCad_lib/KiCad_PCB_FSC-BT1026x.png)
 
